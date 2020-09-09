@@ -1,0 +1,29 @@
+.budapest {
+    font-size: 150%;
+    color: lawngreen;
+    border-bottom-style: dashed;
+    border-bottom-color: yellow;
+  }
+  
+.text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+  }
+  
+  .text .border {
+    background-color: #111111;
+    line-height: 3;
+    color: lawngreen;
+    padding: 20px;
+  }
+  
+  .text .border.trans {
+    color: yellow;
+    background-color: #333300;
+  }
